@@ -1,6 +1,29 @@
 # food_delivery_app_flutter_ui_5
 
-A new Flutter project.
+This is another beautiful UI which i created in flutter.<br>
+**About the UI**:-<br>
+When you openthe app you will be seeing the first screen having full-screen background wall with some text in different stles placed accordingly. It also has a raised button in gradient colours which on pressed takes you to another screen which has different widgets placed on their respective positions. We also have listview in two different forms to display the categories and the items in their respective categories.
+<br>
+Things which are done in this app:-
+* Stateless and stateful widgets
+* ListView
+* AspectRatio
+* Decorations
+
+___
+Built in :-
+* Flutter
+
+___
+Some snaps from the app:-
+* Full video:- https://youtu.be/LU4WRMOgGAw <br>
+* Original UI<br>
+<img src="https://res.cloudinary.com/harshkumarkhatri/image/upload/v1596296678/readme%20images/flutter%20ui%205%20food%20delivery%20app/Screenshot_from_2020-08-01_18-58-01_gzrzhn.png" height=350>
+* My UI<br>
+<img src="https://res.cloudinary.com/harshkumarkhatri/image/upload/v1596296591/readme%20images/flutter%20ui%205%20food%20delivery%20app/Screenshot_from_2020-08-01_21-10-33_wyahoj.png" height=350>
+<img src="https://res.cloudinary.com/harshkumarkhatri/image/upload/v1596296590/readme%20images/flutter%20ui%205%20food%20delivery%20app/Screenshot_from_2020-08-01_21-10-48_fnr5dm.png" height=350>
+<img src="https://res.cloudinary.com/harshkumarkhatri/image/upload/v1596296590/readme%20images/flutter%20ui%205%20food%20delivery%20app/Screenshot_from_2020-08-01_21-11-00_daetrh.png" height=350>
+<img src="https://res.cloudinary.com/harshkumarkhatri/image/upload/v1596296591/readme%20images/flutter%20ui%205%20food%20delivery%20app/Screenshot_from_2020-08-01_21-11-13_gi6th9.png" height=350>
 
 ## Getting Started
 
